@@ -9,7 +9,7 @@ namespace Meeter.Website.Client.Services
     {
         public static string GetLicense()
         {
-            return "Your license key";
+            return "MzQxOTI5QDMxMzgyZTMzMmUzMG9Wb0FxZ1haS2hiWVBqYkJ1OFFkQ29CcW5WUkFGb21wOUVVdVAzVUdDWDA9";
         }
     }
 }
